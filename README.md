@@ -18,7 +18,7 @@ Installation
 Usage
 -----
 1. Change your [**Tuts+**](https://tutsplus.com/) username and password on the `config.json` file.
-2. Go to the [**Tuts+**](https://tutsplus.com/) website and favorite the courses you'd like to download.
+2. Go on the [**Tuts+**](https://tutsplus.com/) website and add as many courses you'd want (favorite) to your account.
 2. Run CasperJS pointing to the main javascript file.
 
     casperjs --engine=slimerjs tutsplus-downloader.js
