@@ -10,10 +10,9 @@ Installation
  1. Clone or download this repository into a new folder.
  2. Install [**Python 2.6+**](https://www.python.org/downloads/).
  3. Install [**npm**](https://www.npmjs.com/get-npm) if you haven't already.
- 4. Install [**CasperJS**](http://casperjs.org/) and [**SlimerJS**](https://slimerjs.org) as global npm packages, as following:
- 
+ 4. Install [**CasperJS**](http://casperjs.org/) and [**SlimerJS**](https://slimerjs.org) as global npm packages, as following: 
 
-    npm -g install casperjs@1.1.x slimerjs@0.9.6
+     `npm -g install casperjs@1.1.x slimerjs@0.9.6`
 
 Usage
 -----
@@ -21,7 +20,7 @@ Usage
 2. Go on the [**Tuts+**](https://tutsplus.com/) website and add as many courses you'd want (favorite) to your account.
 2. Run CasperJS pointing to the main javascript file.
 
-    casperjs --engine=slimerjs tutsplus-downloader.js
+     `casperjs --engine=slimerjs tutsplus-downloader.js`
 
 ## Options ##
 **showSeasonAndEpisode**
