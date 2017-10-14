@@ -58,4 +58,4 @@ You can try newest versions, but they've got to be compatible between each other
 
 License
 -------
-TutsPlus Downloader is released under the MIT license.
+Tuts+ Downloader is released under the MIT license.
