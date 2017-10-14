@@ -1,8 +1,8 @@
 	{
-		"email": 					"person@company.email",
+		"email": 				"person@company.email",
 		"password": 				"password123",
-		"showSeasonAndEpisode": 	true,
+		"showSeasonAndEpisode": 		true,
 		"basePath": 				"Videos/",
-		"defaultBestAssetOptions": 	["video", "muxed", "maxres", "mp4", "hd"],
-	    "baseUrl": 					"https://tutsplus.com/"
+		"defaultBestAssetOptions": 		["video", "muxed", "maxres", "mp4", "hd"],
+	    	"baseUrl": 				"https://tutsplus.com/"
 	}
