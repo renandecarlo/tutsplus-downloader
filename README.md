@@ -12,7 +12,7 @@ Installation
  3. Install [**npm**](https://www.npmjs.com/get-npm) if you haven't already.
  4. Install [**CasperJS**](http://casperjs.org/) and [**SlimerJS**](https://slimerjs.org) as global npm packages, as following: 
 
-     `npm -g install casperjs@1.1.x slimerjs@0.9.6`
+     `npm -g install casperjs@1.1.3 slimerjs@0.9.6`
 
 Usage
 -----
@@ -53,7 +53,7 @@ This tool saves thumbnails, titles and folders in a structure that works with [*
 
 Dependencies
 ------------
-This tool depends on [**CasperJS**](http://casperjs.org/) 1.1 and [**SlimerJS**](https://slimerjs.org) 0.9.6. 
+This tool depends on [**CasperJS**](http://casperjs.org/) 1.1.3 and [**SlimerJS**](https://slimerjs.org) 0.9.6. 
 You can try newest versions, but they've got to be compatible with each other. [**CasperJS**](http://casperjs.org/) version 0.10 and above requires Firefox to be installed on the system.  
 
 License
