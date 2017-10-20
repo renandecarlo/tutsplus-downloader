@@ -40,11 +40,11 @@ Path to where the videos will be downloaded.
 
 **defaultBestAssetOptions**
 
-TutsPlus videos includes several source qualities. This options lets you decide which one will be prioritized for downloading.
+Tuts+ videos includes several source qualities. This options lets you decide which one will be prioritized for downloading.
 
 > Values: an array containing one or more of the following `video`,
-> `muxed (subtitles)`, `maxres (highest resolution)`, `mp4 (container)`,
-> `hd (720p or above)`
+> `muxed` (subtitles), `maxres` (highest resolution), `mp4` (container),
+> `hd` (720p or above)
 
 
 Extras
@@ -53,8 +53,8 @@ This tool saves thumbnails, titles and folders in a structure that works with [*
 
 Dependencies
 ------------
-This tool depends upon [**CasperJS**](http://casperjs.org/) 1.1 and [**SlimerJS**](https://slimerjs.org) 0.9.6. 
-You can try newest versions, but they've got to be compatible between each other. [**CasperJS**](http://casperjs.org/) version 0.10 and above requires Firefox to be installed on the system.  
+This tool depends on [**CasperJS**](http://casperjs.org/) 1.1 and [**SlimerJS**](https://slimerjs.org) 0.9.6. 
+You can try newest versions, but they've got to be compatible with each other. [**CasperJS**](http://casperjs.org/) version 0.10 and above requires Firefox to be installed on the system.  
 
 License
 -------
