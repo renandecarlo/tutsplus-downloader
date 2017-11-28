@@ -25,7 +25,7 @@ Usage
 ## Options ##
 **showSeasonAndEpisode**
 
-Includes numerical identification on the beginning of the downloaded video file, such as *"S01E02 - ..."*.
+Includes numerical identification at the beginning of the downloaded video file, such as *"S01E02 - ..."*.
 
 > Values: `true` or `false`
 
@@ -40,7 +40,7 @@ Path to where the videos will be downloaded.
 
 **defaultBestAssetOptions**
 
-Tuts+ videos includes several source qualities. This options lets you decide which one will be prioritized for downloading.
+Tuts+ videos includes several source qualities. This option lets you decide which one will be prioritized for downloading.
 
 > Values: an array containing one or more of the following `video`,
 > `muxed` (subtitles), `maxres` (highest resolution), `mp4` (container),
