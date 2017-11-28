@@ -12,7 +12,7 @@ Installation
  3. Install [**npm**](https://www.npmjs.com/get-npm) if you haven't already.
  4. Install [**CasperJS**](http://casperjs.org/) and [**SlimerJS**](https://slimerjs.org) as global npm packages, as following: 
 
-     `npm -g install casperjs@1.1.3 slimerjs@0.9.6`
+     `npm -g install casperjs@1.1.3 slimerjs@0.906.2`
 
 Usage
 -----
